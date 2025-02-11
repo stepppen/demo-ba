@@ -122,7 +122,6 @@ export default {
   methods: {
     submitForm() {
       console.log("Patient Data:", this.patient);
-      // Add form submission logic (e.g., save data to a database)
       alert("Patient documentation submitted successfully!");
     },
   },

@@ -14,9 +14,9 @@ export default defineNuxtConfig({
   modules: [ '@nuxt/ui', '@nuxtjs/tailwindcss', '@nuxtjs/google-fonts'],
 
   head: {
-    title: 'Vedunov',
+    title: 'demo',
     meta: [
-      { name: 'description', content: 'Design Portfolio'}
+      { name: 'description', content: 'demo VR app'}
     ],
     link: [
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/icon?family=Material+Icons'}
